@@ -1,6 +1,6 @@
 # Ejercicios día 1
 
-Recuerda que puedes hacer preguntas en el [Foro de Make It Real](https://foro.makeitreal.camp/c/intro-javascript-abr-2021/8).
+Recuerda que puedes hacer preguntas en el [Foro de Make It Real](https://foro.makeitreal.camp/c/intro-javascript-jul-2021/9).
 
 ## Ejercicio 1
 

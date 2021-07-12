@@ -1,6 +1,6 @@
 # Introducción a JavaScript
 
-¡Hola! En este curso aprenderás las bases de JavaScript, el lenguaje más popular de la actualidad. Para más información y registro ingresa a [este link](https://makeitreal.camp/introduccion-a-javascript-interacpedia?utm_source=github&utm_medium=web&utm_campaign=inbound).
+¡Hola! En este curso aprenderás las bases de JavaScript, el lenguaje más popular de la actualidad. Para más información y registro ingresa a [este link](https://makeitreal.camp/introduccion-a-javascript?utm_source=github&utm_medium=web&utm_campaign=inbound).
 
 ## Requisitos
 
