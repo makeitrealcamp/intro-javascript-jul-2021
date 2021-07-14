@@ -37,3 +37,4 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 
 - [Día 1](dia-1.md)
 - [Día 2](dia-2.md)
+- [Día 3](dia-3.md)
